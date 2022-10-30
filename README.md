@@ -18,7 +18,14 @@ La calidad de la predicción se medirá a partir del f1-score(macro).
 
 # Results
 
+https://github.com/veromejiaj/RetoJump2/blob/main/RetoJump2Vero.py
+
 Se obtuvo el modelo predictivo con un f1-score de 1
+
+se extrajo un archivo csv y un json
+
+https://github.com/veromejiaj/RetoJump2/blob/main/final.csv
+https://github.com/veromejiaj/RetoJump2/blob/main/reto.json
 
 # Analysis
 
