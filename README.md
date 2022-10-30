@@ -25,6 +25,8 @@ Se obtuvo el modelo predictivo con un f1-score de 1
 se extrajo un archivo csv y un json
 
 https://github.com/veromejiaj/RetoJump2/blob/main/final.csv
+
+
 https://github.com/veromejiaj/RetoJump2/blob/main/reto.json
 
 # Analysis
